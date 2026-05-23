@@ -1,3 +1,5 @@
+
+
 # mindArena
 
 An elegant, real-time AI group-chat debate simulator that models high-fidelity, multi-perspective discussions. Unlike standard chatbot applications, **mindArena** acts as a simulation cockpit where three distinct virtual Indian personas—representing contrasting viewpoints—engage in a conversational debate on a topic of the user's choosing, culminating in an objective verdict by a neutral Moderator.
@@ -55,6 +57,8 @@ Several architectural optimizations were implemented to resolve socket deadlocks
 4.  **Invisible Scrolling Container**: The chat workspace is limited to `480px` height with `.no-scrollbar` style overrides. All messages auto-scroll inside an invisible text box, keeping the control panels static.
 
 ---
+
+🎥 Project Demo Video : https://www.youtube.com/watch?v=GVFd2BgUlso
 
 ## Installation and Setup Guide
 
