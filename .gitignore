@@ -1,0 +1,17 @@
+# Python / Backend ignores
+backend/.env
+backend/.venv/
+**/__pycache__/
+*.pyc
+
+# Node / Frontend ignores
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
