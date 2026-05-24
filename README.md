@@ -62,7 +62,6 @@ Several architectural optimizations were implemented to resolve socket deadlocks
 
 ---
 
-🎥 Project Demo Video : https://www.youtube.com/watch?v=GVFd2BgUlso
 
 ## Installation and Setup Guide
 
